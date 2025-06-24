@@ -56,7 +56,7 @@ This is a command-line based **Binance Futures Testnet Trading Bot** written in 
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/binance-futures-bot.git
+git clone https://github.com/Yashswi-3/Binance-Futures-Trading-Bot.git
 cd binance-futures-bot
 ```
 
@@ -88,7 +88,7 @@ pip install python-binance
 Run the bot:
 
 ```bash
-python your_script_name.py
+python main.py
 ```
 
 You’ll be prompted to:
@@ -162,25 +162,6 @@ This file is automatically created in the project directory.
 2025-06-24 10:15:01,743 INFO Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'quantity': 0.01, 'type': 'MARKET'}
 2025-06-24 10:15:02,112 INFO Order response: {'orderId': 12345678, 'status': 'FILLED', ...}
 ```
-
----
-
-## 📤 Submission
-
-This project is developed as part of the assignment:
-
-**"Junior Python Developer – Crypto Trading Bot"**
-
-📧 Submit the project files and `trading_bot.log` to:
-- `saami@bajarangs.com`
-- `nagasai@bajarangs.com`
-- CC: `sonika@primetrade.ai`
-
----
-
-## 📜 License
-
-MIT License
 
 ---
 
